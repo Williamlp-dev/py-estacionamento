@@ -21,17 +21,17 @@ Sistema de gerenciamento de estacionamento desenvolvido em Python, permitindo o 
 ### Passos para Configuração
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/sistema-estacionamento.git
+gh repo clone Williamlp-dev/py-estacionamento
 ```
 
 2. Acesse o diretório do projeto
 ```bash
-cd sistema-estacionamento
+cd Estacionamento.py
 ```
 
 3. Execute o script
 ```bash
-python sistema_estacionamento.py
+python Estacionamento.py
 ```
 
 ## Configurações Predefinidas 🔧
@@ -103,14 +103,9 @@ Responsável por gerenciar todas as operações do estacionamento.
 - Relatórios gerenciais
 - Cálculo preciso de tempo de permanência
 
-## Contribuições 🤝
-Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull request.
-
-## Licença 📄
-[Escolha sua licença]
-
 ## Contato 📧
-[Seu nome/email]
+- Nome : William Lopes
+- Gmail : williamlp.dev@gmail.com
 ```
 
 Este README.md oferece:
@@ -119,5 +114,3 @@ Este README.md oferece:
 - Explicação das funcionalidades
 - Exemplos de uso
 - Informações sobre contribuição
-
-Gostaria que eu fizesse alguma modificação específica no documento?
